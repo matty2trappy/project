@@ -1,10 +1,8 @@
-# project
-the company is a small shop that sells plumbing equipment and tools 
-they currently use manual system to write in and out stock and write down manually the income of money and use a calculator and money box 
-non-cloud set up 
-I would recommend for a till for the shop so that they could do all the calculations on it and keep track of the money on the till and not by righting it down manually 
-I would also recommend that they set up a computer and scanner so that they can keep track of inventory that is leaving their store instead of doing it manually 
-They would need to set up a storage room for the data base and computer to keep track of it all in shop
-Cloud set up
-They could have one computer in charge of having an online database connected to the till and the inventory tracker this would be cheaper to run as it would be one computer, but they could find it harder to use as it is all online and could be confusing 
-I think that the non-cloud set up would be better for them because since it is a small shop, they wouldn’t have too much information to process so a small low-end computer would work fine and would take up a small amount of space and would be easier to use for the workers 
+The company is a small shop that sells plumbing equipment and tools and only has one shop.
+They currently use manual system to write in and out stock and write down manually the income of money and use a calculator and money box 
+the non-cloud set up 
+I would recommend that they set up an electronic till so that the shop can keep track of all the calculations on it and keep track of the money on the till and not by righting it down manually. I would also recommend that they set up a computer and scanner so that they can keep track of inventory that is leaving their store instead of doing it manually 
+They would need to set up a small storage room for the data base since its only a small shop and computer to keep track of all the money and stock all in the shop
+The Cloud set up
+I would recommend that They could set up a virtual computer in charge of having an online database that would be connected to the till to keep track of all the money coming in and also have another database that keeps track of all the inventory. This would be cheaper to run as it would be two databases on one computer; This would be better for the owner and workers so that they could see all the information remotely. It would cos very little to maintain 
+I think that the cloud set up would be better for them because since it is a small shop, they wouldn’t have too much information to process so a cheap low end cloud system would work fine and would cost very little money to run. It would also be easier for the workers since they could use any device to see if they have stock available. would be easier to use for the workers to use and understand and since they wouldn’t need to use one main computer to see the information.  If the owners would need to see any of the information remotely, they would be able to see the amount of money coming in and the stock they have in case they needed to order more.
